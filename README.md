@@ -1,2 +1,1 @@
-
-howdy neighbor
+3D action rpg that emphasizes loot and fun times
