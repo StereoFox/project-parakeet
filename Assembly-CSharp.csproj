@@ -63,7 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ItemTables.cs" />
+    <Compile Include="Assets\Scripts\LootTables\commonLootTable1.cs" />
     <Reference Include="UnityEngine">
       <HintPath>D:/GameDev/Editors/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
